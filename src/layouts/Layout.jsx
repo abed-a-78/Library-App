@@ -5,7 +5,7 @@ const Layout = ({ children }) => {
         <>
             <header className={styles.header}>
                 <h1>Book App</h1>
-                <p><a href="https://react.com">Librari</a> | React.js task course</p>
+                <p><a href="https://github.com/abed-a-78/Library-App">Librari</a> | React.js task course</p>
             </header>
             {children}
             <footer className={styles.footer}><p>Developed by hosein with ❤️</p></footer>
